@@ -1,0 +1,52 @@
+.container{
+    width: 300px;
+    height: 380px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 5px 10px;
+    background-color:rgb(195, 189, 196);
+    
+    
+}
+
+.one{
+   width: 150px;
+   height: 200px;
+   font-size: 20px;
+   text-align: left;
+   
+}
+.two{
+    width: 300px;
+    height: 178px;
+   font-size: 10px;
+   list-style: none;
+   padding-right: 2px;
+   background-color:aqua;
+   border: 1px solid yellow;
+   
+   
+}
+
+.ul{
+
+  list-style: none;
+  padding-left: 4px;
+  
+  
+}
+.p{
+
+
+  padding-left: 5px;
+
+}
+#img{
+
+  width: 300px;
+  height: 190px;
+  background-image: url('pexels-yurii-hlei-1386559.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1px solid red;
+}
